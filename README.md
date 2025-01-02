@@ -54,7 +54,7 @@ app/
 
 ## 🛠️ **Tech Stack**
 
-- **🖥️ Language**: [Kotlin](https://kotlinlang.org/)
+- **🖥️ Language**: [Kotlin](https://kotlinlang.org/).
 - **📱 UI Frameworks**:
     - Jetpack Compose
     - Fragments & Activities
